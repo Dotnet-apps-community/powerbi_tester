@@ -4,7 +4,7 @@ namespace Analizer.Tables;
 
 public class BigQueryTable:Table
 {
-    public Connectors Connector = Connectors.BigQuery;
+    new public Connectors Connector = Connectors.BigQuery;
     public SqlConnection? SqlConnection { get; set; }
 }
 
