@@ -1,3 +1,8 @@
 ﻿/*/bin
 /*/obj
-
+/*/.idea
+.idea
+/.vscode
+/.vscode-test
+/data
+/BigQuery_ServiceAccount.json

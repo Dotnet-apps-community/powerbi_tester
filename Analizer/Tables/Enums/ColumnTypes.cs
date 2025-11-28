@@ -7,5 +7,6 @@ public enum ColumnTypes
     Date,
     Boolean,
     DateTime,
-    TimeStamp
+    TimeStamp,
+    Others
 }
